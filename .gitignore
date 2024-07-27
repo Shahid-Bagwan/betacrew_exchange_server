@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+*.env
+
+# Build directories
+dist/
+build/
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp

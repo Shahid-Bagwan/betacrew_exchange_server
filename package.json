@@ -1,0 +1,11 @@
+{
+  "name": "betacrew",
+  "version": "1.0.0",
+  "description": "betacrew assingment",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
