@@ -22,7 +22,7 @@ This Node.js client application interacts with the BetaCrew mock exchange server
    cd betacrew-exchange-client
    ```
 
-2. Open Two Terminals:
+2. Open Two Terminals in the same folder (use vs-code for easy usage) :
 
    - First Terminal
 
